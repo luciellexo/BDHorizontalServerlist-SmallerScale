@@ -1,10 +1,9 @@
 /**
  * @name Horizontal Server List
  * @author Gibbu-edited by luci
- * @version 3.0.0
- * @description Moves the server list from the left to the top of Discord.
- * @source https://github.com/DiscordStyles/HorizontalServerList
- * @invite ZHthyCw
+ * @version 0.0.1
+ * @description Moves the server list from the left to the top of Discord and scales down by 20%.
+ * @source https://github.com/luciellexo/BDHorizontalServerlist-SmallerScale/
 */
 .content_c48ade {
   margin-top: var(--custom-guild-list-width);
@@ -19,7 +18,7 @@
   transform-origin: top left;
   transform: scale(0.8); /* Scales down to 80% */
   rotate: -90deg;
-  height: 125vw !important;
+  height: 125vw !important; /* increases server list length in the top bar by 25% due to scale shrinkage */
   width: 80vw !important;
   bottom: unset;
   position: absolute !important;
