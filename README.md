@@ -1,5 +1,5 @@
 # BDHorizontalServerlist-SmallerScale
-A edited smaller scale of the Horizontal Server List Theme for Better Discord
+Horizontal Server List Smaller Scale Theme for Better Discord
 
 
 Simply put this in your themes folder under C:\Users\*USER*\AppData\Roaming\BetterDiscord\themes
